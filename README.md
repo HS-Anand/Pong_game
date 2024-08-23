@@ -8,7 +8,7 @@ This is a simple implementation of the classic Pong game for two players, built 
 - Score tracking for both players
 - Classic Pong mechanics with ball bouncing off paddles and walls
 
-# Controls
+## Controls
 Player A (Left Paddle):
 
 Move Up: W
@@ -19,12 +19,12 @@ Player B (Right Paddle):
 Move Up: Up Arrow
 Move Down: Down Arrow
 
-# How to Play
+## How to Play
 The game starts automatically once you run the script.
 Players use their controls to move the paddles up and down to hit the ball.
 The first player to miss the ball allows the opponent to score a point.
 The game continues until you close the window.
 
-# Acknowledgments
+## Acknowledgments
 Inspired by the classic Pong game
 Built using Python's Turtle module
