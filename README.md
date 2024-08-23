@@ -27,4 +27,5 @@ The game continues until you close the window.
 
 ## Acknowledgments
 Inspired by the classic Pong game
+
 Built using Python's Turtle module
